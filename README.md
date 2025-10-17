@@ -54,12 +54,7 @@
 <img width="1899" height="884" alt="image" src="https://github.com/user-attachments/assets/c3b1e4da-3871-4407-b7cd-8c7cd55c9401" />
 
 
-## 📫 Connect With Me  
-<p align="center">
-  <a href="mailto:akash@example.com"><img src="https://img.shields.io/badge/Email-akash@example.com-blue?logo=gmail&style=flat-square" /></a>
-  <a href="https://linkedin.com/in/akashkumar"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://github.com/AkashKumar"><img src="https://img.shields.io/badge/GitHub-[AkashKumar](https://github.com/kumar-akash05)-black?logo=github&style=flat-square" /></a>
-</p>
+
 
 ---
 
