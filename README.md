@@ -58,7 +58,7 @@
 <p align="center">
   <a href="mailto:akash@example.com"><img src="https://img.shields.io/badge/Email-akash@example.com-blue?logo=gmail&style=flat-square" /></a>
   <a href="https://linkedin.com/in/akashkumar"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://github.com/AkashKumar"><img src="https://img.shields.io/badge/GitHub-AkashKumar-black?logo=github&style=flat-square" /></a>
+  <a href="https://github.com/AkashKumar"><img src="https://img.shields.io/badge/GitHub-[AkashKumar](https://github.com/kumar-akash05)-black?logo=github&style=flat-square" /></a>
 </p>
 
 ---
