@@ -51,7 +51,8 @@
 > “The cloud is not the limit — it’s just the beginning.” ☁️  
 
 ---Images:
-<img width="1899" height="884" alt="image" src="https://github.com/user-attachments/assets/c3b1e4da-3871-4407-b7cd-8c7cd55c9401" />
+<img width="1897" height="871" alt="image" src="https://github.com/user-attachments/assets/fa7ffbe3-9343-4586-a633-75dd85d37e28" />
+
 
 
 
