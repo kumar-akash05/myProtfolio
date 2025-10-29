@@ -6,6 +6,7 @@ I’m Akash Kumar — a Cloud Engineer & DevOps Enthusiast currently pursuing a 
 
 ## 🧑‍💻 About Me  
 I am a dedicated CSE student at Centurion University of Technology and Management, with hands-on experience in AWS services, Docker, CI/CD pipelines and containerization. My foundation spans programming languages such as Python, Java and C, and I have expanded into cloud infrastructure management, automation and security best practices. I’m always eager to learn new technologies and contribute to innovative projects.
+![Uploading image.png…]()
 
 - 📍 Location: Muzaffarpur, Bihar, India  
 - 🎓 Education: B.Tech – Computer Science & Engineering, Centurion University of Technology and Management (Aug 2022–Present) – CGPA: 8.5  
