@@ -87,9 +87,11 @@ I am a dedicated CSE student at Centurion University of Technology and Managemen
 ## 📫 Contact Me  
 I’m always interested in new opportunities and collaborations. If you’d like to chat about technology, cloud computing, or have a project in mind — let’s connect!  
 - 📧 Email: kumarakash030528@gmail.com  
-- LinkedIn: [linkedin.com/in/akash-kumar](https://www.linkedin.com/in/akash-kumar)  
-- GitHub: [github.com/akash-kumar](https://github.com/akash-kumar)  
-- Instagram: [instagram.com/akash-kumar](https://www.instagram.com/akash-kumar)  
+- 💼 LinkedIn: [linkedin.com/in/akash-kumar-7588762aa](https://www.linkedin.com/in/akash-kumar-7588762aa/)
+- 🧑‍💻 GitHub: [github.com/kumar-akash05](https://github.com/kumar-akash05)
+- 📸 Instagram: [instagram.com/akashkumarbipin](https://www.instagram.com/akashkumarbipin)
+
+- **Portfolio:** [akashkumarport.netlify.app](https://akashkumarport.netlify.app/)
 
 ---
 
